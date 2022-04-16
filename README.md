@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barth28&label=Profile%20views&color=0e75b6&style=flat" alt="barth28" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barth28" alt="barth28" /></a> </p>
-
 - 🌱 I’m currently learning **React and C#**
 
 - 📫 How to reach me **henriquelb28@gmail.com**
