@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barth28&label=Profile%20views&color=0e75b6&style=flat" alt="barth28" /> </p>
 
-- 🌱 I’m currently learning **React and C#**
+- 🌱 Currently working with Virtual Reality
 
 - 📫 How to reach me **henriquelb28@gmail.com**
 
