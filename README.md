@@ -11,6 +11,3 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/henrique-leonardo-31bb78219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henrique leonardo" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barth28&show_icons=true&locale=en&layout=compact" alt="barth28" /></p>
